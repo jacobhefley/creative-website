@@ -5,15 +5,15 @@ body{
 }
 ul{
   border-style: outset;
-  border-color: #606060;
-  border-width: thick;
+  border-color: #00c;
+  border-width: 10px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 10px;n
 }
 ol{
   border-style: inset;
-  border-width: thick;
-  border-color: #606060;
+  border-width: 10px;
+  border-color: #00C;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -26,4 +26,11 @@ ol{
 }
 h1{
   color: #ffffff;
+  font-size: 4.5vmin;
+}
+h2{
+  font-size: 2.7vmin;
+}
+li{
+  font-size: 1.8vmin;
 }
