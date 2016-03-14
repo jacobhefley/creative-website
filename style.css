@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: #606060;
+  font-size: 20px;
+}
+ul{
+  border-style: outset;
+  border-color: #606060;
+  border-width: thick;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+ol{
+  border-style: inset;
+  border-width: thick;
+  border-color: #606060;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#container {
+  background-color: #ffffff;
+  padding: 20px 0px 20px 0px;
+  width:85%;
+  margin: auto;
+  border-radius: 15px;
+}
+h1{
+  color: #ffffff;
+}
