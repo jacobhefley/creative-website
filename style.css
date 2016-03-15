@@ -2,13 +2,16 @@ body{
   text-align: center;
   background-color: #606060;
   font-size: 20px;
+  font: Rockwell;
 }
+
 ul{
   border-style: outset;
   border-color: #00c;
   border-width: 10px;
   padding-top: 10px;
-  padding-bottom: 10px;n
+  padding-bottom: 10px;
+  border-radius: 15px;
 }
 ol{
   border-style: inset;
@@ -16,6 +19,7 @@ ol{
   border-color: #00C;
   padding-top: 10px;
   padding-bottom: 10px;
+  border-radius: 15px;
 }
 #container {
   background-color: #ffffff;
